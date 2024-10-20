@@ -57,5 +57,6 @@ $produk2 = new Produk("Uncharted", "Neil Druckmann",
 //Game : Uncharted | Neil Druckmann, Sony Computer (Rp. 250000) - 50 Jam.
 
 echo $produk1->getInfoLengkap();
-
+echo "<br>";
+echo $produk2->getInfoLengkap();
 ?>
